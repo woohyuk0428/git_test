@@ -7,7 +7,7 @@ public class World {
   }
   
   public static void run2() {
-    System.out.println("hello java");
+    System.out.println("hello 우혁");
   }
 
 
