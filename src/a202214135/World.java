@@ -3,7 +3,7 @@ package a202214135;
 public class World {
 
   public static void run() {
-    System.out.println("202517078");
+    System.out.println("20221413");
   }
 
   public static void run2() {
